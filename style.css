@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background: red;
+}
+.heading{
+    width: 80%;
+    font-size: 82px;
+}
+.nameofthemember, #result, #accuracy{
+    color: pink;
+    width: 80%;
+}
+#camera{
+    border: 2px dotted blue;
+    width: 350px;
+    height: 350px;
+}
